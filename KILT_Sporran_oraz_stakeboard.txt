@@ -28,5 +28,3 @@ BOTLabs GmbH to berlińska firma badawczo-rozwojowa koncentrująca się na bran�
 O protokole KILT.
 KILT to w pełni zdecentralizowany protokół tożsamości blockchain do wydawania samodzielnych, anonimowych oraz weryfikowalnych poświadczeń. Misją KILT jest przywrócenie kontroli na danymi osobowymi właścicielowi, dodatkowo przywracając prywatność jednostce. Deweloperzy mogę używać otwartoźródłowego JavaScript KILT SDK do szybkiego tworzenia oraz wydawania aplikacji, przechowywania oraz weryfikowania poświadczeń oraz tworzenia firm wokół tożsamości i prywatności. Protokół KILT został początkowo opracowany przez BOTLabs GmbH.
 
-OfficerAlien
-@Hardcode1351051
