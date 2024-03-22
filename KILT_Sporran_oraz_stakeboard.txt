@@ -1,0 +1,32 @@
+Przedstawiamy Soprran oraz Stakeboard: przechowywanie i staking dla KILT!
+
+Z przyjemnością przedstawiamy dwa nowe dodatki do ekosystemu KILT: rozszerzenie do przeglądarki Sporran - portfel na tokeny oraz dane uwierzytelniające KILT oraz Stakeboard - platformę do stakingu.
+
+Sporran.
+Portfel Sporran może być używany do przechowywania tokenów KILT oraz dodatkowo umożliwia użytkownikom podpisywanie i przesyłanie transakcji na blockchainie KILT. Na początku grudnia, użytkownicy będą mogli także używać Sporran do przechowywania danych uwierzytelniających oraz tworzenia cyfrowej tożsamości - podobnie jak w rzeczywistym świecie trzymasz w swoim portfelu prawo jazdy.
+
+Możesz zbudować wiele tożsamości: na przykład tożsamość zawodową z Twoimi wszystkimi kwalifikacjami lub Twoją tożsamość gracza z wszystkimi rankingami. Sporran pozwala na zarządzanie i podpisywanie transakcji z tymi tożsamościami cyfrowymi w blockchainie KILT. Ma to na celu przywrócenie kontroli na własnymi danymi podczas udostępniania informacji serwisom online.
+
+Obecnie Sporran jest dostępny jako rozszerzenie przeglądarki Google Chrome oraz firefox. Zobacz przewodnik po tworzeniu tożsamości tutaj.
+
+Stakeboard
+Stakeboard to aplikacja webowa która pozwala na bezpośrednia interakcję z blockchainem KILT aby stakować Twoje tokeny.
+
+Aby rozpocząć staking na Stakeboard, potrzebujesz tożsamości KILT (adresu portfela) z saldem co najmniej 1001 tokenów. (1000 potrzebne do stakingu, a 1 do pokrycia kosztów transakcji). Każda tożsamość z tym minimum może wybrać jednego kolatora, któremu będzie delegować swoje tokeny. Kolatorzy przechowywują informacje o blokach KILT, zbierają transakcję oraz tworzą nowe bloki. Listę kolatorów można znaleźć tutaj oraz na witrynach społecznościowych takich jak StakeKILT.com
+
+Gdy wybrany kolator pomyślnie wyprodukuje bloki, osoba która go deleguje może otrzymać nagrodę w wysokości do 8% rocznie w pierwszym roku oraz 6% w drugim. Zobacz przewodnik "Jak stakować KILT" aby uzyskać więcej informacji na temat poruszania się po Stakeboard.
+
+Sporran oraz Stakebord zostały stworzone przez B.T.E. BOTLabs Trusted Entity GmbH, spółkę zależna od BOTLabs GmbH, podmiotu który początkowo opracował protoków KILT.
+
+
+W przypadku jakichkolwiek pytań dotyczących tych usług, przejdź do naszej strony Tech Support. Aby być na bieżąco z rozwojem KILT, śledź nasze oficjalne kanały na Twitterze oraz Telegramie.
+
+O BOTLabs GmbH.
+
+BOTLabs GmbH to berlińska firma badawczo-rozwojowa koncentrująca się na branży blockchain. Została założona w 2018 roku przez Ingo Rübe oraz niemieckie wydawnictwo Burda GmbH, dla których pełnił funkcję CTO w latach 2012-2017. Szwajcarski wydawca Ringier AG dołączył później jako udziałowiec. BOTLabs jest pierwszym twórcą protokołu KILT, który jest obecnie w pełni zdecentralizowaną siecią blockchain. Portfel Sporran i usługa weryfikacji tożsamości SocialKYC zostały opracowane przez spółkę zależną BOTLabs o nazwie B.T.E BOTLabs Trusted Entity GmbH. BotLabs jest członkiem założycielem International Association for Trusted Blockchain Applications (INATBA) oraz członkiem Decentralized Identity Foundation (DIF) oraz Blochain for Europe.
+
+O protokole KILT.
+KILT to w pełni zdecentralizowany protokół tożsamości blockchain do wydawania samodzielnych, anonimowych oraz weryfikowalnych poświadczeń. Misją KILT jest przywrócenie kontroli na danymi osobowymi właścicielowi, dodatkowo przywracając prywatność jednostce. Deweloperzy mogę używać otwartoźródłowego JavaScript KILT SDK do szybkiego tworzenia oraz wydawania aplikacji, przechowywania oraz weryfikowania poświadczeń oraz tworzenia firm wokół tożsamości i prywatności. Protokół KILT został początkowo opracowany przez BOTLabs GmbH.
+
+OfficerAlien
+@Hardcode1351051
